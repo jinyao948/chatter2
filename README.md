@@ -3,6 +3,11 @@ Chatter App
 
 ## What is the application about?
 For this project, I used the Chat Engine API (https://chatengine.io/) to create a simple chat app with basic functionalities. 
+
+<img width="1440" alt="Screenshot 2021-09-09 at 2 18 22 PM" src="https://user-images.githubusercontent.com/87969338/132633256-e4e62b04-32c3-4c63-b66b-58909016a85e.png">
+
+
+
 https://chatter-smoky.vercel.app/ 
 You can find the website here! 
 
