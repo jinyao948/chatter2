@@ -1,6 +1,53 @@
-# Getting Started with Create React App
+Chatter App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What is the application about?
+For this project, I used the Chat Engine API (https://chatengine.io/) to create a simple chat app with basic functionalities. 
+
+## What are the user stories for your application?
+The features include being able to send messages, send images, add people to chat, as well as the "is typing..." function. 
+
+## Walk through a piece of code/most difficult part
+
+To be honest, I spent alot of time trying to create a backend on Firebase for my project. However, as there were 2 backend servers for this proj, I had trouble connecting the two together. 
+
+Eventually, I settled on Local Storage. 
+
+<!-- const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    const authObject = { 'Project-ID': projectID, 'User-Name': username, 'User-Secret': password };
+
+    try {
+      await axios.get('https://api.chatengine.io/chats', { headers: authObject });
+
+      localStorage.setItem('username', username);
+      localStorage.setItem('password', password);
+
+      window.location.reload();
+      setError('');
+    } catch (err) {
+      setError('Wrong credentials. Pls contact admin to create an account');
+    }
+  }; -->
+
+
+## What was your favourite part of your project?
+
+Seeing it work! 
+
+## What would you like to add next?
+
+I would like to add more features. Or potentially, migrate it to a plaform such as GetStream etc. which allows for more features.
+
+
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
 
 ## Available Scripts
 
