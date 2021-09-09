@@ -3,6 +3,8 @@ Chatter App
 
 ## What is the application about?
 For this project, I used the Chat Engine API (https://chatengine.io/) to create a simple chat app with basic functionalities. 
+https://chatter-smoky.vercel.app/ 
+You can find the website here! 
 
 ## What are the user stories for your application?
 The features include being able to send messages, send images, add people to chat, as well as the "is typing..." function. 
